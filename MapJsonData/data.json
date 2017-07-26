@@ -1,0 +1,28 @@
+{
+    "locations": [
+          {
+              "name": "Učebna Q04",
+              "latitude": 49.30497,
+              "longtitude": 16.614393,
+              "description": "Je to tichá učebna kde se dá učit"
+          },
+          {
+              "name": "Arboret lavičky",
+              "latitude": 49.30493,
+              "longtitude": 16.611393,
+              "description": "Část arboreta, jsou zde lavicky, kde se dá v klidu učit v prirode"
+          },
+          {
+              "name": "Knihovna",
+              "latitude": 49.30443,
+              "longtitude": 16.614391,
+              "description": "Knihovna školy, kde kromě počítačů jsou zde i vetsinou volné lavice pro uceni, plus velké množtví knih na učení"
+          },
+          {
+              "name": "X Přízemní patro",
+              "latitude": 49.30490,
+              "longtitude": 16.614390,
+              "description": "Mistnost určená vyloženě pro studenty, je možno se zde ucit ve skupine"
+          }
+    ]
+}
